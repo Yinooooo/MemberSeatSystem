@@ -1,0 +1,1 @@
+INSERT INTO `employee`(`EMP_ID`, `NAME`, `EMAIL`, `FLOOR_SEAT_SEQ`) VALUES (10005,'James','james@gmail.com',401), (10006,'Vicky','vicky@gmail.com',402), (10007,'Ryan','Ryan@gmail.com',404)
